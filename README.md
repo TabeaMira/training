@@ -1,6 +1,8 @@
 # training
 test file for **Git** training at EMBL
 
+<!--HTML comment-->
+
 - you can add bullets
   - and sub-bullets
 - [and links](https://bio-it.embl.de)
