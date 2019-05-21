@@ -1,4 +1,7 @@
 - # training
+
+make sure to enjoy today
+
 test file for **Git** training at EMBL
 - avocado
 - onion
