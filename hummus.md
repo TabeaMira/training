@@ -1,5 +1,5 @@
 # A recipe for hummus
- yummi yummi
+ yummi yummi - butterflies in my tummy!
 
 chickpeas
 tahini
