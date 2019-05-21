@@ -1,2 +1,2 @@
 # training
-test file for git training at EMBL
+test file for **Git** training at EMBL
