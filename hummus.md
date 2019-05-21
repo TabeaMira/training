@@ -3,4 +3,4 @@
 chickpeas
 tahini
 olive oil
-
+paprika powder
