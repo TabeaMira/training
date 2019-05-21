@@ -1,8 +1,9 @@
-# training
+- # training
 test file for **Git** training at EMBL
 - avocado
 - onion
-salt and pepper
+- salt and pepper
+- tomatoes
 
 <!--HTML comment-->
 
